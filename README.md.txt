@@ -1,5 +1,8 @@
 ﻿# finalproject-n1_7_webtutorial
 
+
+Báo cáo project nằm trong doc/baocao.doc
+
 Hướng dẫn cài đặt project project
 
  B1: Thực hiện cài đặt hệ quản trị CSDL mysql và import database Dump20181229.sql  
